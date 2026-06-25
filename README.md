@@ -2,7 +2,11 @@
 
 > *Built at the intersection of neuroscience and artificial intelligence.*
 
-A high-fidelity, single-page landing site for **SynapseX** — a futuristic neural-AI interface product that maps neural pathways, cognitive load, and physiological states into a single adaptive intelligence layer.
+[![Made by Jainil](https://img.shields.io/badge/Made%20by-Jainil-white?style=flat-square)](https://github.com/jainil224)
+[![GitHub](https://img.shields.io/badge/GitHub-jainil224-181717?style=flat-square&logo=github)](https://github.com/jainil224)
+[![Repo](https://img.shields.io/badge/Repo-Giraffe--Animation-blue?style=flat-square&logo=github)](https://github.com/jainil224/Giraffe-Animation)
+
+A high-fidelity, single-page landing site for **SynapseX** — a futuristic neural-AI interface product that maps neural pathways, cognitive load, and physiological states into a single adaptive intelligence layer. Designed and developed by **Jainil**.
 
 ---
 
@@ -71,8 +75,8 @@ synapsex-landing/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd synapsex-landing
+git clone https://github.com/jainil224/Giraffe-Animation.git
+cd Giraffe-Animation
 
 # Install dependencies
 npm install
@@ -118,6 +122,26 @@ All background videos are hosted on [Cloudinary](https://cloudinary.com/) and lo
 
 ---
 
+## 👨‍💻 Author
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jainil224">
+        <img src="https://github.com/jainil224.png" width="80" style="border-radius:50%" alt="Jainil"/>
+        <br />
+        <sub><b>Jainil</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/jainil224">@jainil224</a>
+    </td>
+  </tr>
+</table>
+
+> *Designed, built, and shipped by Jainil — pushing the boundaries of web design and creative development.*
+
+---
+
 ## 📄 License
 
-© 2026 SynapseX Labs. All rights reserved.
+© 2026 **Jainil** — SynapseX Labs. All rights reserved.
